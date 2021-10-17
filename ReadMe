@@ -1,0 +1,4 @@
+
+
+Model is pickled and tokenizers saved(we want to save the right matrices and values we got) and then used.
+Model.py is in Model directory 
